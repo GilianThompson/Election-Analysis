@@ -76,8 +76,8 @@ with open(file_to_load) as election_data:
         # 5: Add a vote to that county's vote count.
         county_votes[county_name] += 1 
 
-print(f"(debugging county_list: {county_list}\n")
-print(f"(debugging county_votes: {county_votes}\n")
+#print(f"(debugging county_list: {county_list}\n")
+#print(f"(debugging county_votes: {county_votes}\n")
 
 # Save the results to our text file.
 with open(file_to_save, "w") as txt_file:
