@@ -1,7 +1,7 @@
 # Election-Analysis
 
 ### Overview of Project 
-In this project, Python was utilized to analyize data for a Colorado election audit. The goal was the analyize the data in order to state the winner, as well as provide a breakdown of the votes casted. 
+In this project, Python was utilized to analyize data for a Colorado election audit. The goal was the analyize the data in order to state the winner, as well as provide a breakdown of the votes casted. ```PyPoll_Challenge.py``` is the file containing the code used for the analysis. 
 
 ### Results 
 - There were **369,711 total votes** casted in this election
